@@ -73,7 +73,7 @@ resource "digitalocean_droplet" "hostname2" {
 }
 
 
-resource "digitalocean_droplet" "hostname2" {
+resource "digitalocean_droplet" "hostname3" {
     image  = "ubuntu-18-04-x64"
     name   = "${var.droplet_name}"
     region = "${var.droplet_region}"
