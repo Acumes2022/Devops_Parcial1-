@@ -1,0 +1,4 @@
+---
+wp_mysql_db: usuario
+wp_mysql_user: usuario
+wp_mysql_password: usuario

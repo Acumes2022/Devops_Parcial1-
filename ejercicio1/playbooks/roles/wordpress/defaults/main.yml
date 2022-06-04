@@ -1,0 +1,6 @@
+---
+# defaults file for wordpress
+wp_site_title: usuario
+wp_site_user: usuario
+wp_site_password: usuario
+wp_site_email: usuario@galileo.edu
